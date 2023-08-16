@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 function Form({ onSubmit }) {
     const [input1, setInput1] = useState('');
